@@ -1,7 +1,5 @@
 ﻿# unit_test
 
-Vatcharapong Laklaem \n
-Unit test merge function : using \n
+Vatcharapong Laklaem => Unit test merge function : using
 
-step 1 : npm i \n
-step 2 : npm test
+step 1 : npm i then step 2 : npm test
