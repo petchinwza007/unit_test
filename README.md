@@ -1,5 +1,5 @@
 ﻿# unit_test
 
-Vatcharapong Laklaem => Unit test merge function : using
+Vatcharapong Laklaem : Unit test merge function
 
-step 1 : npm i then step 2 : npm test
+npm install then npm test
